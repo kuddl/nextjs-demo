@@ -32,6 +32,10 @@ export default function Hello() {
             <main className={styles.main}>
                 <h1 className={styles.title}> Usere User </h1>
 
+<div>
+Next, create a new pull request (GitHub) or merge request (GitLab) for your frontend (find the full list of supported frameworks here).
+Once your branch is deployed, the deployment will be analyzed and page changes will be detected. If one of your pages has changed, a preview show up:
+</div>
 
                 <h2>User Liste</h2>
                 <div>
